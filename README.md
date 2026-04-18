@@ -14,6 +14,12 @@ LeetCode 刷题笔记 | C++ 题解 | 算法与数据结构
 LeetCode-题号-英文题目.cpp  
 示例：LeetCode-0088-MergeSortedArray.cpp
 
+题目分类：
+
+1. array 数组/顺序表
+
+2. stack_queue 栈与队列
+
 ## ✅ 已完成题目列表
 
 | 题号  | 题目          | 题型 / 算法    |
