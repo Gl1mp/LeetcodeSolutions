@@ -9,7 +9,6 @@ using namespace std;
 * 遇到数字入栈，遇到符号取出两个数计算，结果重新入栈
 * 时间 O(n)，空间 O(n)
 */
-
 class Solution {
 public:
 	stack<int> S;

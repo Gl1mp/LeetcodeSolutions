@@ -17,7 +17,6 @@ using namespace std;
 * 时间复杂度：O(log n)
 * 空间复杂度：O(1)
 */
-
 class Solution {
 public:
 	int searchInsert(vector<int>& nums, int target) {
